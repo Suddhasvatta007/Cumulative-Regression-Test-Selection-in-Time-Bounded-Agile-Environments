@@ -1,5 +1,6 @@
 # Cumulative-Regression-Test-Selection-in-Time-Bounded-Agile-Environments
 
+## Repository Structure
 .
 ├── Codes/
 │   ├── Aging.ipynb
@@ -14,6 +15,8 @@
 │   ├── Results_D1.xlsx
 │   └── Results_D2.xlsx
 └── README.md
+
+## Directory Descriptions
 
 Codes/
 Contains Jupyter notebooks implementing five cumulative regression test selection algorithms: Aging, Deficit Round Robin (DRR), Memory-less, Round Robin (RR), and Weighted Round Robin (WRR).
