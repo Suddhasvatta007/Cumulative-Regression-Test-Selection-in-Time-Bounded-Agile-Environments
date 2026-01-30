@@ -1,6 +1,8 @@
 # Cumulative-Regression-Test-Selection-in-Time-Bounded-Agile-Environments
 
 ## Repository Structure
+
+```text
 .
 ├── Codes/
 │   ├── Aging.ipynb
@@ -16,6 +18,7 @@
 │   └── Results_D2.xlsx
 └── README.md
 
+```
 ## Directory Descriptions
 
 Codes/
